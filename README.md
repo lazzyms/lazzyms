@@ -9,12 +9,116 @@ Currently working as Senior Backend Developer at [Arré Voice](https://play.goo
 
 
 ## Skills
-<img src="https://img.shields.io/badge/Node%20js-22272d?style=for-the-badge&logo=nodedotjs" /> <img src="https://img.shields.io/badge/React%20Js-22272d?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/TypeScript-22272d?style=for-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/JavaScript-22272d?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Express.js-22272d?style=for-the-badge&logo=express" /> <img src="https://img.shields.io/badge/GraphQl-22272d?style=for-the-badge&logo=graphql" /> <img src="https://img.shields.io/badge/Redux-22272d?style=for-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/Vue.js-22272d?style=for-the-badge&logo=vuedotjs" /> <img src="https://img.shields.io/badge/Vuetify-22272d?style=for-the-badge&logo=vuetify" /> <img src="https://img.shields.io/badge/jQuery-22272d?style=for-the-badge&logo=jquery" /> <img src="https://img.shields.io/badge/MySQL-22272d?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/MongoDB-22272d?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/ArangoDB-22272d?style=for-the-badge&logo=ArangoDB" /> <img src="https://img.shields.io/badge/Material%20UI-22272d?style=for-the-badge&logo=mui" /> <img src="https://img.shields.io/badge/Tailwind_CSS-22272d?style=for-the-badge&logo=tailwind-css" /> <img src="https://img.shields.io/badge/Bootstrap-22272d?style=for-the-badge&logo=bootstrap" /> <img src="https://img.shields.io/badge/Amazon_AWS-22272d?style=for-the-badge&logo=amazonaws" /> <img src="https://img.shields.io/badge/firebase-22272d?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/Stripe-22272d?style=for-the-badge&logo=Stripe" /> <img src="https://img.shields.io/badge/PayPal%20API-22272d?style=for-the-badge&logo=paypal" /> <img src="https://img.shields.io/badge/Paytm%20API-22272d?style=for-the-badge&logo=paytm" /> <img src="https://img.shields.io/badge/Docker-22272d?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/GitLab%20CI-22272d?style=for-the-badge&logo=gitlab" /> <img src="https://img.shields.io/badge/GitHub_Actions-22272d?style=for-the-badge&logo=github-actions" />
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Node%20js-22272d?style=for-the-badge&logo=nodedotjs" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/React%20Js-22272d?style=for-the-badge&logo=react" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-22272d?style=for-the-badge&logo=javascript" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-22272d?style=for-the-badge&logo=typescript" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Express.js-22272d?style=for-the-badge&logo=express" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/GraphQl-22272d?style=for-the-badge&logo=graphql" />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Redux-22272d?style=for-the-badge&logo=redux" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-22272d?style=for-the-badge&logo=vuedotjs" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Vuetify-22272d?style=for-the-badge&logo=vuetify" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/jQuery-22272d?style=for-the-badge&logo=jquery" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-22272d?style=for-the-badge&logo=mysql" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/MongoDB-22272d?style=for-the-badge&logo=mongodb" />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/ArangoDB-22272d?style=for-the-badge&logo=ArangoDB" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Material%20UI-22272d?style=for-the-badge&logo=mui" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-22272d?style=for-the-badge&logo=tailwind-css" />
+    </td>
+    <td>
+        <img src="https://img.shields.io/badge/Bootstrap-22272d?style=for-the-badge&logo=bootstrap" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-22272d?style=for-the-badge&logo=amazonaws" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/firebase-22272d?style=for-the-badge&logo=firebase" />
+    </td>  
+  </tr>
+  <tr></tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Stripe-22272d?style=for-the-badge&logo=Stripe" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PayPal%20API-22272d?style=for-the-badge&logo=paypal" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Paytm%20API-22272d?style=for-the-badge&logo=paytm" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-22272d?style=for-the-badge&logo=docker" /> 
+    </td>
+    <td>
+         <img src="https://img.shields.io/badge/GitLab%20CI-22272d?style=for-the-badge&logo=gitlab" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-22272d?style=for-the-badge&logo=github-actions" />
+    </td>
+  </tr>
+  </table>
+           
 
 ## Tools
-<img src="https://img.shields.io/badge/Visual_Studio_Code-22272d?style=for-the-badge&logo=visual%20studio%20code" /> <img src="https://img.shields.io/badge/Postman-22272d?style=for-the-badge&logo=Postman" /> <img src="https://img.shields.io/badge/Yarn-22272d?style=for-the-badge&logo=yarn" /> <img src="https://img.shields.io/badge/mac-22272d?style=for-the-badge&logo=apple" /> <img src="https://img.shields.io/badge/Linux-22272d?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/Brave-22272d?style=for-the-badge&logo=Brave" />
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-22272d?style=for-the-badge&logo=visual%20studio%20code" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Postman-22272d?style=for-the-badge&logo=Postman" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Yarn-22272d?style=for-the-badge&logo=yarn" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/mac-22272d?style=for-the-badge&logo=apple" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Linux-22272d?style=for-the-badge&logo=linux" />
+    </td>
+    <td>
+       <img src="https://img.shields.io/badge/Brave-22272d?style=for-the-badge&logo=Brave" />
+    </td>
+  </tr>
+  </table>
 <!---
 lazzyms/lazzyms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
