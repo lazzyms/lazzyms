@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Maulik Sompura 
-Currently working as Senior Backend Developer at [Arré Voice](https://play.google.com/store/apps/details?id=com.arre.voice)
+Currently working as Backend Lead at [Arré Voice](https://play.google.com/store/apps/details?id=com.arre.voice)
 
 [![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=safari&url=me.mauliksompura.in/generic-resume)](https://me.mauliksompura.in/generic-resume)
 [![GitHub lazzyms](https://img.shields.io/github/followers/lazzyms?label=follow&style=for-the-badge&logo=github)](https://github.com/lazzyms)
