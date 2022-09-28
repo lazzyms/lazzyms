@@ -117,6 +117,9 @@ Currently working as Backend Lead at [Arré Voice](https://play.google.com/stor
     <td>
        <img src="https://img.shields.io/badge/Brave-22272d?style=for-the-badge&logo=Brave" />
     </td>
+     <td>
+       <img src="https://img.shields.io/badge/Discord-22272d?style=for-the-badge&logo=Discord" />
+    </td>
   </tr>
   </table>
 <!---
