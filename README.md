@@ -133,6 +133,8 @@ Currently working as Backend Lead at [Arré Voice]([https://play.google.com/sto
     <td>
       <img src="https://img.shields.io/badge/Yarn-22272d?style=for-the-badge&logo=yarn" />
     </td>
+     </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/mac-22272d?style=for-the-badge&logo=apple" />
     </td>
@@ -142,6 +144,8 @@ Currently working as Backend Lead at [Arré Voice]([https://play.google.com/sto
     <td>
        <img src="https://img.shields.io/badge/Brave-22272d?style=for-the-badge&logo=Brave" />
     </td>
+    </tr>
+  <tr>
     <td>
        <img src="https://img.shields.io/badge/ClickUp-22272d?style=for-the-badge&logo=ClickUp" />
     </td>
@@ -153,6 +157,9 @@ Currently working as Backend Lead at [Arré Voice]([https://play.google.com/sto
     </td>
   </tr>
   </table>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazzyms&count_private=true&show_icons=true&ring_color=B2F77D&line_height=20&title_color=ffffff&text_color=e2e2e2&hide_border=true&icon_color=e3e3e3&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyms&layout=compact&line_height=18&title_color=ffffff&text_color=e2e2e2&hide_border=true&icon_color=e3e3e3&theme=transparent)](https://github.com/anuraghazra/github-readme-stats?)
 <!---
 lazzyms/lazzyms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
