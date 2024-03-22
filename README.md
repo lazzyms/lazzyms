@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Maulik Sompura 
 Currently working as Backend Lead at [Arré Voice]([https://play.google.com/store/apps/details?id=com.arre.voice](https://www.arrevoice.com/))
 
-[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=safari&url=me.mauliksompura.in/generic-resume)](https://me.mauliksompura.in/generic-resume)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=safari&url=me.mauliksompura.in/generic-resume)](https://resume.mauliksompura.in)
 [![GitHub lazzyms](https://img.shields.io/github/followers/lazzyms?label=follow&style=for-the-badge&logo=github)](https://github.com/lazzyms)
-[![Twitter: lazzy_ms](https://img.shields.io/twitter/follow/lazzy_ms?style=for-the-badge&logo=twitter)](https://twitter.com/lazzy_ms)
+[![X: lazzy_ms](https://img.shields.io/twitter/follow/lazzy_ms?style=for-the-badge&logo=twitter)](https://twitter.com/lazzy_ms)
 [![Linkedin: mauliksompura](https://img.shields.io/badge/-mauliksompura-555555?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/mauliksompura/)](https://www.linkedin.com/in/mauliksompura/)
 
 
