@@ -64,18 +64,6 @@ I specialize in the full delivery lifecycle: from architecture decisions and API
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazzyms&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyms&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ## Currently
 
 - 🏢 **Senior Software Engineer** at Codemonk (Remote)
