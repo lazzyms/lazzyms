@@ -1,16 +1,84 @@
-# 💫 About Me:
-I'm currently working as senior software engineer at Codemonk. Solving problems with Generative AI.
+<div align="center">
 
+# Maulik Sompura
+### Senior Software Engineer · Generative AI · Full-Stack · 8+ Years
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mauliksompura) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8602940) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maulik.sompura06@gmail.com) 
+[![Blog](https://img.shields.io/badge/Portfolio-mauliksompura.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://mauliksompura.co.in)
+[![Resume](https://img.shields.io/badge/Portfolio-mauliksompura.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://resume.mauliksompura.co.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauliksompura-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauliksompura)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-8602940-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8602940)
+[![Email](https://img.shields.io/badge/Email-maulik.sompura06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maulik.sompura06@gmail.com)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lazzyms&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lazzyms&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyms&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lazzyms&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+---
+
+## About
+
+I am a Senior Software Engineer at [Codemonk](https://codemonk.io) with over eight years of experience building scalable web applications and AI-powered systems. My current focus is on Generative AI and backend systems (Node.js). I design and ship production-grade LLM integrations RAG pipelines and intelligent automation tools, including REST or GraphQL APIs.
+
+I specialize in the full delivery lifecycle: from architecture decisions and API design to front-end polish and cloud deployment. I care deeply about code quality, developer experience, and building systems that are both powerful and maintainable.
+
+**What I bring to the table:**
+- Production experience integrating LLMs (OpenAI, Anthropic, Ollama) into real products
+- Deep MERN/TypeScript expertise with Go for performance-critical services
+- Multi-cloud fluency: AWS (including infrastructure-as-code with AWS CDK), GCP, Azure
+- Strong background in distributed systems, WebSockets, GraphQL, and event-driven architectures
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**cl-ai-chat**](https://github.com/lazzyms/cl-ai-chat) | CLI AI chatbot using Ollama + Serper for local LLM + search | Python |
+| [**azure-ad-strategy**](https://github.com/lazzyms/azure-ad-strategy) | Azure AD JWT auth strategy for NestJS with multi-tenant support | TypeScript / NestJS |
+| [**pdf-markdown-embed**](https://github.com/lazzyms/pdf-markdown-embed) | Convert & embed PDFs as Markdown for LLM pipelines | Python |
+| [**name2avatar**](https://github.com/lazzyms/name2avatar) | Generate SVG/PNG avatar buffers from name initials | JavaScript |
+| [**nohello.net**](https://github.com/nohello-net/site) | Open-source contributor — 1.5k ⭐ | TypeScript |
+
+---
+
+## Technical Expertise
+
+**Languages**
+`TypeScript` · `JavaScript` · `Python` · `Go` · `Bash` · `PHP`
+
+**Backend**
+`Node.js` · `NestJS` · `Express` · `FastAPI` · `GraphQL` · `Socket.io` · `REST`
+
+**Frontend**
+`React` · `Next.js` · `Vue.js` · `TailwindCSS` · `Redux` · `React Query` · `Vite`
+
+**Cloud & Infrastructure**
+`AWS` · `GCP` · `Azure` · `Docker` · `Nginx` · `GitHub Actions` · `GitLab CI`
+
+**Databases**
+`PostgreSQL` · `MongoDB` · `Redis` · `MySQL` · `DynamoDB` · `Firebase` · `ArangoDB`
+
+**AI / GenAI**
+`LLM Integration` · `RAG Pipelines` · `Ollama` · `OpenAI API` · `Anthropic API` · `Vector Search`
+
+**Testing & Tooling**
+`Playwright` · `Puppeteer` · `Swagger` · `Postman` · `ESLint` · `jest`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazzyms&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyms&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## Currently
+
+- 🏢 **Senior Software Engineer** at Codemonk (Remote)
+- 🤖 Building Backend Systems and AI-native features with LLMs and agentic workflows
+- 📍 Bhavnagar, India (UTC +05:30)
+- 📬 Open to interesting engineering challenges — feel free to [reach out](mailto:maulik.sompura06@gmail.com)
