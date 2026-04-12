@@ -3,8 +3,8 @@
 # Maulik Sompura
 ### Senior Software Engineer · Generative AI · Full-Stack · 8+ Years
 
-[![Blog](https://img.shields.io/badge/Portfolio-mauliksompura.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://mauliksompura.co.in)
-[![Resume](https://img.shields.io/badge/Portfolio-mauliksompura.co.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://resume.mauliksompura.co.in)
+[![Blog](https://img.shields.io/badge/Portfolio-mauliksompura.co.in-000000?style=flat-square&logoColor=white)](https://mauliksompura.co.in)
+[![Resume](https://img.shields.io/badge/Resume-resume.mauliksompura.co.in-000000?style=flat-square&logoColor=white)](https://resume.mauliksompura.co.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mauliksompura-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauliksompura)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-8602940-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8602940)
 [![Email](https://img.shields.io/badge/Email-maulik.sompura06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maulik.sompura06@gmail.com)
