@@ -27,18 +27,6 @@ I specialize in the full delivery lifecycle: from architecture decisions and API
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**cl-ai-chat**](https://github.com/lazzyms/cl-ai-chat) | CLI AI chatbot using Ollama + Serper for local LLM + search | Python |
-| [**azure-ad-strategy**](https://github.com/lazzyms/azure-ad-strategy) | Azure AD JWT auth strategy for NestJS with multi-tenant support | TypeScript / NestJS |
-| [**pdf-markdown-embed**](https://github.com/lazzyms/pdf-markdown-embed) | Convert & embed PDFs as Markdown for LLM pipelines | Python |
-| [**name2avatar**](https://github.com/lazzyms/name2avatar) | Generate SVG/PNG avatar buffers from name initials | JavaScript |
-| [**nohello.net**](https://github.com/nohello-net/site) | Open-source contributor — 1.5k ⭐ | TypeScript |
-
----
-
 ## Technical Expertise
 
 **Languages**
