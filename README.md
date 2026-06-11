@@ -15,7 +15,7 @@
 
 ## About
 
-I am a Senior Software Engineer at [Codemonk](https://codemonk.io) with over eight years of experience building scalable web applications and AI-powered systems. My current focus is on Generative AI and backend systems (Node.js). I design and ship production-grade LLM integrations RAG pipelines and intelligent automation tools, including REST or GraphQL APIs.
+I am a Senior Software Engineer at [Juner](https://juner.ai) with over 8 years of experience building scalable web applications and AI-powered systems. My current focus is on Generative AI and backend systems (Node.js, Python). I design and ship production-grade LLM integrations RAG pipelines and intelligent automation tools, including REST or GraphQL APIs.
 
 I specialize in the full delivery lifecycle: from architecture decisions and API design to front-end polish and cloud deployment. I care deeply about code quality, developer experience, and building systems that are both powerful and maintainable.
 
